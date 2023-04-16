@@ -16,5 +16,8 @@
     "url": "https://github.com/atrefing/REACTLEARN/issues"
   },
   "homepage": "https://github.com/atrefing/REACTLEARN#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
 }
